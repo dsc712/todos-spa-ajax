@@ -24,11 +24,11 @@
 # Project Screenshots
  > Note(for newbies) : if you are cloning this project then please make sure that you are running it in node environment .
  
- ![Project Screenshot](./project screenshots/img1.png)
+ ![Project Screenshot](./project_screenshots/img1.png)
  
- ![Project Screenshot](./project screenshots/img2.png)
+ ![Project Screenshot](./project_screenshots/img2.png)
  
- ![Project Screenshot](./project screenshots/img3.png)
+ ![Project Screenshot](./project_screenshots/img3.png)
 
 
 ## Thanks for checking out this repository : )
